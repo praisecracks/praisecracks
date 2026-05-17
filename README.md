@@ -40,7 +40,7 @@ I enjoy turning ideas into real systems that solve practical problems, with a st
 
 ### 💻 Frontend & Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,ts,js,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html5,react,nextjs,reactnative,ts,js,tailwind, css3" />
 </p>
 
 ### ⚙️ Backend & Systems
@@ -62,9 +62,9 @@ I enjoy turning ideas into real systems that solve practical problems, with a st
 
 ## 🚀 Featured Projects
 
-### 📱 Custom Hub (CommandOp)
+### 📱 Custom Hub (CommandHub)
 A productivity and HR management mobile application designed for teams and individuals to manage tasks, streamline workflows, and improve visibility across operations.  
-**Tech:** React Native, JavaScript, SQL, Tailwind CSS
+**Tech:** React Native, JavaScript, Firebase, Tailwind CSS
 
 ---
 
@@ -89,15 +89,15 @@ A modern portfolio and resume builder with real-time project management, profile
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=praisecracks&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praisecracks&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praisecracks&layout=compact&theme=tokyonight" />
 </p>
 
 ---
