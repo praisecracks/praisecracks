@@ -40,7 +40,7 @@ I enjoy turning ideas into real systems that solve practical problems, with a st
 
 ### 💻 Frontend & Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=html,react,nextjs,reactnative,ts,js,tailwind,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,expo,ts,js,tailwind" />
 </p>
 
 ### ⚙️ Backend & Systems
