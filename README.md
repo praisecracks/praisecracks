@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Praise Durotoluwa</h1>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/145e2375-3adb-4d63-95bf-458cf2759a46" /><h1 align="center">Hi 👋, I'm Praise Durotoluwa</h1>
 
 <h3 align="center">
 Full Stack Developer building scalable mobile & web applications with modern technologies and strong product thinking.
@@ -7,7 +7,7 @@ Full Stack Developer building scalable mobile & web applications with modern tec
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=praisecracks&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
