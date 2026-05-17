@@ -1,92 +1,124 @@
 <h1 align="center">Hi 👋, I'm Praise Durotoluwa</h1>
 
 <h3 align="center">
-Frontend & Full Stack Developer passionate about building modern, scalable, and user-focused web applications.
+Full Stack Developer building scalable mobile & web applications with modern technologies and strong product thinking.
 </h3>
 
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer with major focus on Frontend Development
-- ⚛️ Specialized in React.js, JavaScript, Firebase, and modern web technologies
-- 🎨 Passionate about creating clean UI/UX experiences
-- 🔥 Currently building real-world scalable products
-- 📚 Software Engineering graduate
-- 🌍 Open to freelance, remote, and collaboration opportunities
+I am a Full Stack Developer who builds modern, scalable, and user-focused digital products across mobile and web platforms.
+
+I enjoy turning ideas into real systems that solve practical problems, with a strong focus on architecture, performance, and user experience.
+
+- 🧠 Strong in system design thinking and problem-solving
+- 🏗️ Focused on building scalable full-stack applications
+- 📱 Experienced in mobile and web application development
+- ⚡ Passionate about product-driven engineering and clean architecture
+- 🌱 Currently exploring cloud engineering and Go-based backend systems
+
+---
+
+## 🧩 Core Strengths
+
+- System Design Thinking  
+- Product Building Mindset  
+- Problem Solving  
+- Frontend UI Engineering  
+- Backend Architecture  
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,firebase,git,github,vscode" />
+### 💻 Frontend & Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,ts,js,tailwind" />
+</p>
+
+### ⚙️ Backend & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,firebase" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🧰 Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
 ---
 
-## 📌 Current Focus
+## 🚀 Featured Projects
 
-- Building scalable web applications
-- Improving backend architecture and API integration
-- Growing as a Full Stack Engineer
-- Creating products that solve real-world problems
+### 📱 Custom Hub (CommandOp)
+A productivity and HR management mobile application designed for teams and individuals to manage tasks, streamline workflows, and improve visibility across operations.  
+**Tech:** React Native, JavaScript, SQL, Tailwind CSS
 
 ---
 
-## 📂 Featured Projects
+### 🧠 CodeMaster
+A competitive coding platform for solving real-world programming challenges with live execution and practice environments.  
+**Tech:** Next.js, TypeScript, Go, Tailwind CSS
 
-### 📰 News & Event Reporting System
-A role-based reporting platform with Admin, Sub Admin, and Student functionalities for content approval workflows.
+---
 
-### 🐾 Animal Health Tracker
-A smart animal tracking and health management application with responsive UI and Firebase integration.
+### 🌐 Frontend System
+A modular frontend-focused system designed for scalable UI architecture, authentication, and backend integration.  
+**Tech:** React.js, JavaScript, Express.js, Firebase, Tailwind CSS
 
-### 📍 Scarcity Locator
-A platform designed to help Nigerians quickly locate essential services and resources nearby in real-time.
+---
+
+### 💼 PortfolioLink
+A modern portfolio and resume builder with real-time project management, profile customization, and showcase features.  
+**Tech:** React.js, Node.js, Express.js, Firebase
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="github streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let’s Connect
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINK">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://twitter.com/YOUR_LINK">
-  <img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
+- 🔗 LinkedIn: www.linkedin.com/in/praise-durotoluwa-9b3767357  
+- 🐦 Twitter/X: https://x.com/POluwabumi  
+- 📧 Email: praisecrackdev@gmail.com  
+- 🌍 Portfolio: https://praisecrack.netlify.app  
 
 ---
 
-## ✨ Fun Fact
+## ⚡ Vision
 
-I enjoy turning ideas into real digital products through clean code, creative thinking, and modern design principles.
+I am currently focused on building strong full-stack systems while exploring cloud engineering and scalable backend architectures using Go and modern backend technologies.
+
+My goal is to build products that are not just functional, but scalable, cleanly architected, and impactful.
+
+---
+
+<p align="center">
+  <b>“Build systems, not just applications.”</b>
+</p>
